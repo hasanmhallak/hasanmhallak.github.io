@@ -56291,7 +56291,7 @@ A.O6.prototype={
 $0(){var s=0,r=A.Y(t.H)
 var $async$$0=A.Z(function(a,b){if(a===1)return A.V(b,r)
 while(true)switch(s){case 0:s=2
-return A.a2(A.jl("https://www.linkedin.com/in/hasan-hallak"),$async$$0)
+return A.a2(A.jl("https://www.linkedin.com/in/hasanmhallak"),$async$$0)
 case 2:return A.W(null,r)}})
 return A.X($async$$0,r)},
 $S:14}
