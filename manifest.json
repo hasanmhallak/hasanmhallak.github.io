@@ -1,11 +1,11 @@
 {
-  "name": "hasan_portfolio",
-  "short_name": "hasan_portfolio",
+  "name": "repo_viewer",
+  "short_name": "repo_viewer",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#0175C2",
   "theme_color": "#0175C2",
-  "description": "Checkout my portfolio.",
+  "description": "Repo Viwer",
   "orientation": "portrait-primary",
   "prefer_related_applications": false,
   "icons": [
